@@ -33,10 +33,10 @@ Se o botão de copiar e-mail não funcionar, abra a página com a extensão Live
 ## Estrutura
 ```
 pergunte-a-foca/
-  index.html
-  style.css
-  script.js
-  foca.png
+    index.html
+    style.css
+    script.js
+    foca.png
 
 pagina-apresentacao/
     index.html
